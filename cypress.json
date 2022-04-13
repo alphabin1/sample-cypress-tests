@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://juice-shop-web-applicatiohn.herokuapp.com/#/",
+    "testFiles":"**/*.spec.js",
+    "chromeWebSecurity": false,
+    "viewportWidth": 1660,
+    "viewportHeight": 1440
+}

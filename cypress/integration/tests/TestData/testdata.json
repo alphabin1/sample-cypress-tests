@@ -1,0 +1,20 @@
+{
+    "userName": "test",
+    "email": "test@test.com",
+    "password": "test12",
+    "confirmPassword": "test12",
+    "securityAnswer": "test",
+    "userProfileText": "User Profile",
+    "invalidProductName": "testing",
+    "validProductName": "Apple Juice",
+    "noResultFoundText": "No results found",
+    "yourBasketTitle": "Your Basket",
+    "totalPrice": "Total Price: 1.99¤",
+    "country": "India",
+    "mobileNumber": "1111111111",
+    "zipCode": "123454",
+    "address": "India 12345 Surat Gujarat",
+    "city": "Surat",
+    "state": "Gujarat",
+    "cardNumber": "4111111111111111"
+}
